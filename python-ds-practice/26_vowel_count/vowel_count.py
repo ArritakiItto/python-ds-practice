@@ -1,3 +1,5 @@
+VOWELS = set("aeiou")
+
 def vowel_count(phrase):
     """Return frequency map of vowels, case-insensitive.
 
